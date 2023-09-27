@@ -5,7 +5,12 @@ export default function contact() {
   return (
     <Layout>
     <h2>Contact</h2>
-    <h3>My contact info goes here</h3>
+    <br />
+    <br />
+    <ul>
+      <li>LinkedIn</li>
+      <li>Instagram</li>
+    </ul>
     </Layout>
   )
 }

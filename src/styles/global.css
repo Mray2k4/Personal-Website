@@ -50,3 +50,6 @@ footer p{
   margin: 40px auto;
 }
 
+ul {
+  list-style-type: none;
+}

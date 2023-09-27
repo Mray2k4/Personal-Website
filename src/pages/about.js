@@ -4,10 +4,16 @@ import Layout from '../components/Layout'
 export default function about() {
   return (
     <Layout>
-  <img className='' src="/headshot 3.jpg" alt="Headshot 1" />
+  <img className='' src="/headshot 2.jpg" alt="Headshot 1" />
     <div>
         <h1>About page</h1>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores natus ipsum quis soluta, adipisci mollitia ut accusantium, voluptatem recusandae dolores repellat at minima itaque dolor amet error temporibus dignissimos consequatur.</p>
+        <p>Hi my name is Marque Ray and I'm on my way to become a Software Developer.
+           I was always interested in computers when I was a teen. I didn't know much 
+           about coding back then but I liked to learn about how to 
+           add software and changed how things looked and worked in the computer. I have been
+           an athlete all my life, which had been my main focus, but I decided to switch focus
+           and start my journey as a Software Developer.   
+        </p>
     </div>
     </Layout>
   )
