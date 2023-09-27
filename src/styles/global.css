@@ -53,3 +53,7 @@ footer p{
 ul {
   list-style-type: none;
 }
+
+img {
+  height: 220px;
+}
