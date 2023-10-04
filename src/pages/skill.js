@@ -13,6 +13,7 @@ export default function skill() {
       <li>Javascript</li>
       <li>React</li>
       <li>Github</li>
+      <li>Bootstrap</li>
       <li>Bash</li>
       <li>Postman</li>
       <li>Heroku</li>

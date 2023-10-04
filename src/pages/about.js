@@ -6,7 +6,7 @@ export default function about() {
     <Layout>
   <img className='' src="/headshot 2.jpg" alt="Headshot 1" />
     <div>
-        <h1>About page</h1>
+        <h1>About Me</h1>
         <p>Hi my name is Marque Ray and I'm on my way to become a Software Developer.
            I was always interested in computers when I was a teen. I didn't know much 
            about coding back then but I liked to learn about software and how to changed 
