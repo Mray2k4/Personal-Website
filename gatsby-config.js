@@ -23,5 +23,6 @@ module.exports = {
   siteMetadata: {
     title: 'Personal Website',
     description: 'About project'
+  
   }
 }

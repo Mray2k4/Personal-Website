@@ -2,6 +2,7 @@
 title: Calculator
 lang: HTML, CSS & Javascript
 path: calculator-app
+date: 06-27-23
 ---
 
 ## Project Description

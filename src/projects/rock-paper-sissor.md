@@ -2,6 +2,7 @@
 title: Rock, Paper, Sissors
 lang: HTML, CSS & Javascript
 path: Rock-Paper-Sissors
+date: 05-01-23
 ---
 
 ## Project Description

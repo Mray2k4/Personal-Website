@@ -1,7 +1,8 @@
 ---
 title: Expense Tracker
-lang: React, Bootstrap & CSS
+lang: React, Javascript, HTML & CSS
 path: expense-tracker
+date: 07-13-23
 ---
 
 ## Project Description

@@ -2,6 +2,7 @@
 title: To Do List
 lang: HTML, CSS & Javascript
 path: to-do-list
+date: 05-16-23
 ---
 
 ## Project Description
