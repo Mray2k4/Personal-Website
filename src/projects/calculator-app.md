@@ -3,6 +3,8 @@ title: Calculator
 lang: HTML, CSS & Javascript
 path: calculator-app
 date: 06-27-23
+thumb: ../images/thumbnail/Calculator Thumb.png
+feature: ../images/features/Calculator.png
 ---
 
 ## Project Description

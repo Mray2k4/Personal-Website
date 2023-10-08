@@ -3,6 +3,8 @@ title: Star Wars Character Finder
 lang: React, Bootstrap & CSS
 path: star-wars-app
 date: 09-07-23
+thumb: ../images/thumbnail/Star Wars Thumb.png
+feature: ../images/features/Star Wars.png
 ---
 
 ## Project Description

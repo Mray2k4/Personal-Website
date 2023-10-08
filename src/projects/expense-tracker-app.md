@@ -3,6 +3,8 @@ title: Expense Tracker
 lang: React, Javascript, HTML & CSS
 path: expense-tracker
 date: 07-13-23
+thumb: ../images/thumbnail/Expense Thumb.png
+feature: ../images/features/Expense.png
 ---
 
 ## Project Description

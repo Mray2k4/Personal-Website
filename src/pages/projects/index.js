@@ -4,7 +4,7 @@ import styles from '../../styles/projects.css'
 import { Link, graphql } from 'gatsby'
 
 export default function projects({data}) {
-  console.log(data)
+  // console.log(data)
   const projects = data.allMarkdownRemark.nodes
   return (
     <Layout>

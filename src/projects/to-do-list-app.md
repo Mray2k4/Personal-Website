@@ -3,6 +3,8 @@ title: To Do List
 lang: HTML, CSS & Javascript
 path: to-do-list
 date: 05-16-23
+thumb: ../images/thumbnail/TDL Thumb.png
+feature: ../images/features/TDL.png
 ---
 
 ## Project Description
