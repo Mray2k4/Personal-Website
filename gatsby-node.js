@@ -8,7 +8,7 @@ exports.createPages = async ({graphql, actions}) => {
         allMarkdownRemark {
           nodes {
             frontmatter {
-              path
+              paths
             }
           }
         }
@@ -17,9 +17,9 @@ exports.createPages = async ({graphql, actions}) => {
     
     data.allMarkdownRemark.nodes.forEach(node => {
         actions.createPage({
-            path: '/projects' + node.frontmatter.path,
+            path: '/projects' + node.frontmatter.paths,
             component:  path.resolve('./src/templates/project-details.js'),
-            // context: {path: node.frontmatter.path}
+            context: {paths: node.frontmatter.paths}
         })
       })
 

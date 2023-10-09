@@ -1,7 +1,7 @@
 ---
 title: Digital Clock
 lang: HTML, CSS & Javascript
-path: /clock-app
+paths: /clock-app
 date: 04-24-23
 thumb: ../images/thumbnail/Clock Thumb.png
 feature: ../images/features/Jordan Clock.png

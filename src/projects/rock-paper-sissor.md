@@ -1,7 +1,7 @@
 ---
 title: Rock, Paper, Sissors
 lang: HTML, CSS & Javascript
-path: /rock-paper-sissor
+paths: /rock-paper-sissor
 date: 05-01-23
 thumb: ../images/thumbnail/RPS Thumb.png
 feature: ../images/features/RPS.png

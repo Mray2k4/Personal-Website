@@ -15,7 +15,7 @@ export default function projects({data}) {
         <br /><br /><br />
         <div className='projects'>
           {projects.map(project => (
-            <Link to={'/projects' + project.frontmatter.path} key={project.id}>
+            <Link to={'/projects' + project.frontmatter.paths} key={project.id}>
               <div>
                 <Img fluid={project.frontmatter.thumb.childImageSharp.fluid}/>
                 <h3>{project.frontmatter.title}</h3>
@@ -35,7 +35,7 @@ export const query = graphql `
       nodes {
         frontmatter {
           title
-          path
+          paths
           lang
           thumb {
             childImageSharp {
