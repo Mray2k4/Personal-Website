@@ -8,8 +8,9 @@ export default function contact() {
     <br />
     <br />
     <ul>
-      <li>LinkedIn</li>
-      <li>Instagram</li>
+      <li>
+        <a href="https://www.linkedin.com/feed/">LinkedIn</a>
+      </li>
     </ul>
     </Layout>
   )
