@@ -10,8 +10,8 @@ export default function projects({data}) {
   return (
     <Layout>
     <div className='porfolio'>
+    <br /><br /><br />
         <h2>Projects</h2>
-        <h3>My projects goes here!!!</h3>
         <br /><br /><br />
         <div className='projects'>
           {projects.map(project => (
