@@ -33,7 +33,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: 'Personal Website',
+    title: 'Marque Ray',
     description: 'About project'
   }
 }

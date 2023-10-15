@@ -25,6 +25,17 @@ p {
   max-width: 1200px;
   margin: 0 auto;
 }
+
+.content {
+
+}
+
+footer p{
+  text-align: center;
+  color: #bbb;
+  margin: 40px auto;
+}
+
 nav {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -44,16 +55,36 @@ nav a {
 nav a:hover {
   border-color: white;
 }
-footer p{
+/* footer p{
   text-align: center;
   color: #bbb;
   margin: 40px auto;
-}
+} */
 
 ul {
   list-style-type: none;
 }
 
-img {
-  height: 220px;
+.que{
+  height: 250px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.thumb {
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.thumbText {
+  text-align: center;
+}
+
+.aboutMe {
+  text-align: justify;
+  margin-left: 200px;
+  margin-right: 200px;
 }

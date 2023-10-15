@@ -9,7 +9,7 @@ export default function Layout({children}) {
         <div className="content">
             {children}
         </div>
-        <footer>
+        <footer className='footer'>
             <p>Copyright 2023 Personal Website</p>
         </footer>
     </div>

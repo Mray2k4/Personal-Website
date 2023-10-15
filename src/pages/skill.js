@@ -17,6 +17,7 @@ export default function skill() {
       <li>Bash</li>
       <li>Postman</li>
       <li>Heroku</li>
+      <li>Gatsby</li>
     </ul>
     </Layout>
   )
