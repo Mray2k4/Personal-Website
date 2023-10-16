@@ -21,20 +21,6 @@ p {
 }
 
 /* layout & nav */
-.layout {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-.content {
-
-}
-
-footer p{
-  text-align: center;
-  color: #bbb;
-  margin: 40px auto;
-}
 
 nav {
   display: grid;
@@ -55,11 +41,6 @@ nav a {
 nav a:hover {
   border-color: white;
 }
-/* footer p{
-  text-align: center;
-  color: #bbb;
-  margin: 40px auto;
-} */
 
 ul {
   list-style-type: none;
@@ -87,4 +68,24 @@ ul {
   text-align: justify;
   margin-left: 200px;
   margin-right: 200px;
+}
+
+/* Footer at the Bottom Page */
+
+footer p{
+  text-align: center;
+  color: #bbb;
+  margin: 40px auto;
+}
+
+.layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  max-width: 1200px;
+  margin: 0 auto;   
+}
+
+.content {
+  flex: 1 0 auto;
 }
