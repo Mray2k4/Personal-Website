@@ -13,4 +13,6 @@ This project I learned about API's and getting information from them. It was a c
 
 ### **Test Project Below**
 
-[Star Wars Test](https://starwars-app-3f5084ab17fb.herokuapp.com/)
+Click on link to go to working project
+
+[Link](https://starwars-app-3f5084ab17fb.herokuapp.com/)

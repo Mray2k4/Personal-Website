@@ -10,7 +10,7 @@ export default function about() {
            I was always interested in computers when I was a teen. I didn't know much 
            about coding back then but I liked to learn about software and how to changed 
           the way things looked and worked in the computer. I have been
-           an athlete all my life, which had been my main focus, so I decided to have a new focus
+           an athlete all my life, which had been my main focus, so I decided to expand my skills and knowledge
            and start my journey as a Software Developer.   
         </p>
     </div>

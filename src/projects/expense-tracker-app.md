@@ -13,4 +13,6 @@ This was my first project in React. It was difficult to learn initally but I gra
 
 ### **Test Project Below**
 
-[Expense Report](https://marque-expense-tracker-f12469da090e.herokuapp.com/)
+Click on link to go to working project
+
+[Link](https://marque-expense-tracker-f12469da090e.herokuapp.com/)

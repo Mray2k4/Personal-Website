@@ -13,4 +13,6 @@ A basic clock app with the dates and months writen out. It's mainly Javascript w
 
 ### **Test Project Below**
 
-[Digital Clock Display](https://mray2k4.github.io/Clock-App/)
+Click on link to go to working project 
+
+[Link](https://mray2k4.github.io/Clock-App/)

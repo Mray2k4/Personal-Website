@@ -13,4 +13,6 @@ A Rock, Paper, Sissors game made with mainly Javascript and a little CSS and HTM
 
 ### **Test Project Below**
 
-[Start Game](https://mray2k4.github.io/Rock-Paper-Sissors-App/)
+Click on link to go to working project
+
+[Link](https://mray2k4.github.io/Rock-Paper-Sissors-App/)

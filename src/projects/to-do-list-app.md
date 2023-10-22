@@ -13,4 +13,6 @@ A simple todo list with html, css and javascript. This project took longer to co
 
 ### **Test Project Below**
 
-[To Do List Test](https://mray2k4.github.io/To-Do-List-App/)
+Click on link to go to working project
+
+[Link](https://mray2k4.github.io/To-Do-List-App/)

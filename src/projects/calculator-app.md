@@ -13,4 +13,6 @@ This is a basic calulator app, made with HTML, CSS and Javascript. This was one 
 
 ### **Test Project Below**
 
-[Calculator Test](https://mray2k4.github.io/Calculator-App/)
+Click on link to go to working project
+
+[Link](https://mray2k4.github.io/Calculator-App/)
