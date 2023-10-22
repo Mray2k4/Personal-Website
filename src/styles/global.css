@@ -89,3 +89,58 @@ footer p{
 .content {
   flex: 1 0 auto;
 }
+
+/* language Icons */
+
+
+
+.html{
+  list-style-image: url(/HTML.png);
+  list-style-position: inside;
+}
+
+.css{
+  list-style-image: url(/CSS.png);
+  list-style-position: inside;
+}
+
+.java{
+  list-style-image: url(/JS.png);
+  list-style-position: inside;
+  margin-left: 47px;
+}
+
+.react{
+  list-style-image: url(/REACT.png);
+  list-style-position: inside;
+}
+
+.git{
+  list-style-image: url(/GIT.png);
+  list-style-position: inside;
+}
+
+.boot{
+  list-style-image: url(/BOOT.png);
+  list-style-position: inside;
+}
+
+.bash{
+  list-style-image: url(/BASH.png);
+  list-style-position: inside;
+}
+
+.post{
+  list-style-image: url(/POST.png);
+  list-style-position: inside;
+}
+
+.hero{
+  list-style-image: url(/HERO.png);
+  list-style-position: inside;
+}
+
+.gats{
+  list-style-image: url(/GATS.png);
+  list-style-position: inside;
+}

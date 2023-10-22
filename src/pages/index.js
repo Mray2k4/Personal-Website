@@ -11,9 +11,9 @@ return (
     <Layout>
     <section className="header">
       <div>
-        <h2>A Fullstack</h2>
-        <h3>Software Developer</h3>
-        <p>Design, Develop & Deploy</p>
+        <h2><i>Hi I'm Marque</i></h2>
+        <h3><i>I'm A Fullstack</i></h3>
+        <h4><i>Software Developer</i></h4>
         <Link className='btn'to='/projects'>My Portfolio Projects</Link>
       </div>
       {/* <img className='computer' src="/Computer Setup.png" alt="Laptop" /> */}
