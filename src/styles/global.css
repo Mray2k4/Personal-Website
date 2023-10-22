@@ -98,57 +98,67 @@ footer p{
   list-style-image: url(/HTML.png);
   list-style-position: inside;
   margin-left: 15px;
+  padding-bottom: 3px;
 }
 
 .css{
   list-style-image: url(/CSS.png);
   list-style-position: inside;
+  padding-bottom: 3px;
 }
 
 .java{
   list-style-image: url(/JS.png);
   list-style-position: inside;
   margin-left: 47px;
+  padding-bottom: 3px;
 }
 
 .react{
   list-style-image: url(/REACT.png);
   list-style-position: inside;
   margin-left: 7px;
+  padding-bottom: 3px;
 }
 
 .git{
   list-style-image: url(/GIT.png);
   list-style-position: inside;
   margin-left: 20px;
+  padding-bottom: 3px;
 }
 
 .boot{
   list-style-image: url(/BOOT.png);
   list-style-position: inside;
   margin-left: 45px;
+  padding-bottom: 3px;
 }
 
 .bash{
   list-style-image: url(/BASH.png);
   list-style-position: inside;
   margin-left: 5px;
+  padding-bottom: 3px;
 }
 
 .post{
   list-style-image: url(/POST.png);
   list-style-position: inside;
   margin-left: 40px;
+  padding-bottom: 3px;
 }
 
 .hero{
   list-style-image: url(/HERO.png);
   list-style-position: inside;
   margin-left: 25px;
+  padding-bottom: 3px;
 }
 
 .gats{
   list-style-image: url(/GATS.png);
   list-style-position: inside;
   margin-left: 20px;
+  padding-bottom: 3px;
 }
