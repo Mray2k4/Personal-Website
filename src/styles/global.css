@@ -93,12 +93,12 @@ footer p{
 
 /* language Icons */
 
-ul li{
+/* ul li{
   font-size: 20px;
   margin-bottom: 10px;
-}
+} */
 
-.html{
+/* .html{
   list-style-image: url(/HTML.png);
   list-style-position: inside;
   margin-left: 20px;
@@ -149,10 +149,22 @@ ul li{
   list-style-image: url(/HERO.png);
   list-style-position: inside;
   margin-left: 25px;
+} */
+
+.container{
+  /* list-style-image: url(/GATS.png);
+  list-style-position: inside; */
+  display: flex;
+  margin-left: 500px;
 }
 
-.gats{
-  list-style-image: url(/GATS.png);
-  list-style-position: inside;
-  margin-left: 20px;
+.flexbox {
+ margin: 10px;
+ margin-left: 30px;
+}
+
+.s {
+  justify-content: space-evenly;
+  margin: 10px;
+  float: right;
 }

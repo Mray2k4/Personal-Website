@@ -12,8 +12,8 @@ return (
     <section className="header">
       <div>
         <h2><i>Hi I'm Marque</i></h2>
-        <h3><i>I'm A Fullstack</i></h3>
-        <h4><i>Software Developer</i></h4>
+        <h3><i>I'm a Fullstack</i></h3>
+        <h3><i>Software Developer</i></h3>
         <Link className='btn'to='/projects'>My Portfolio Projects</Link>
       </div>
       {/* <img className='computer' src="/Computer Setup.png" alt="Laptop" /> */}
