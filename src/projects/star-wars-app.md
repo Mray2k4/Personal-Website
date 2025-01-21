@@ -15,4 +15,4 @@ This project I learned about API's and getting information from them. It was a c
 
 Click on link to go to working project
 
-[Link](https://starwars-app-3f5084ab17fb.herokuapp.com/)
+[Link]( https://starwars-app-23-3a63d52840bf.herokuapp.com/)
